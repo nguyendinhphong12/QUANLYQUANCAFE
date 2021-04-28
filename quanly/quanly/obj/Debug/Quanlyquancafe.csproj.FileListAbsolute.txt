@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\quanly\quanly\bin\Debug\quanly.exe.config
+C:\Users\ADMIN\source\repos\quanly\quanly\bin\Debug\quanly.exe
+C:\Users\ADMIN\source\repos\quanly\quanly\bin\Debug\quanly.pdb
+C:\Users\ADMIN\source\repos\quanly\quanly\obj\Debug\quanly.FLogin.resources
+C:\Users\ADMIN\source\repos\quanly\quanly\obj\Debug\quanly.IndexForm.resources
+C:\Users\ADMIN\source\repos\quanly\quanly\obj\Debug\quanly.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\quanly\quanly\obj\Debug\quanly.FQuanly.resources
+C:\Users\ADMIN\source\repos\quanly\quanly\obj\Debug\Quanlyquancafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\quanly\quanly\obj\Debug\Quanlyquancafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\quanly\quanly\obj\Debug\quanly.exe
+C:\Users\ADMIN\source\repos\quanly\quanly\obj\Debug\quanly.pdb
+C:\Users\ADMIN\source\repos\quanly\quanly\obj\Debug\quanly.FDoanhthu.resources
+C:\Users\ADMIN\source\repos\quanly\quanly\obj\Debug\quanly.Suasp.resources
+C:\Users\ADMIN\source\repos\quanly\quanly\obj\Debug\quanly.NhanVien.resources
+C:\Users\ADMIN\source\repos\quanly\quanly\obj\Debug\quanly.Fuser.resources
+C:\Users\ADMIN\source\repos\quanly\quanly\obj\Debug\Quanlyquancafe.csprojAssemblyReference.cache
